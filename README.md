@@ -14,19 +14,19 @@ Customize words in the <code>words.json</code> file.
 ## II. npm install
 ## III. config.js
 <code>
-//////////////////////
-// MY WORDS RANDOMED
-//////////////////////
-		{
-			disabled : false,
-			module: "MMM-MyWordsRandomed",
-			position: "bottom_bar",
-			header: "framboise-pi.fr - My Sense Hat",
-			header: false,
-			config: {
-				display_interval : 5000
-				}
-	    },
+<p>//////////////////////</p>
+<p>// MY WORDS RANDOMED</p>
+<p>//////////////////////</p>
+		<p>{</p>
+			<p>disabled : false,</p>
+			<p>module: "MMM-MyWordsRandomed",</p>
+			<p>position: "bottom_bar",</p>
+			<p>header: "framboise-pi.fr - My Sense Hat",</p>
+			<p>header: false,</p>
+			<p>config: {</p>
+				<p>display_interval : 5000</p>
+				<p>}</p>
+	    <p>},</p>
   </code>
   
 # Screenshot
