@@ -21,10 +21,10 @@ Customize words in the <code>words.json</code> file.
 			<p>disabled : false,</p>
 			<p>module: "MMM-MyWordsRandomed",</p>
 			<p>position: "bottom_bar",</p>
-			<p>header: "framboise-pi.fr - My Sense Hat",</p>
+			<p>header: "framboise-pi.fr - My Words Randomed",</p>
 			<p>header: false,</p>
 			<p>config: {</p>
-				<p>display_interval : 5000</p>
+				<p>display_interval : 10000</p>
 				<p>}</p>
 	    <p>},</p>
   </code>
