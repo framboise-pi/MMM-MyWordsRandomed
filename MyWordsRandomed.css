@@ -1,0 +1,25 @@
+.MMM-MyWordsRandomed div.container {
+    margin: 0px;
+    padding: 0px;
+}
+
+.MMM-MyWordsRandomed p.bottom {
+    margin: 0px;
+    padding: 80px;
+    font-size: 150%;
+    line-height: 100%;
+    float: center;
+    clear:right;
+    text-shadow: 2px 3px 5px rgba(0,255,255,0.6);
+}
+
+.MMM-MyWordsRandomed div.right {
+    float: right;
+    padding-left:10px;
+}
+
+.MMM-MyWordsRandomed div.line {
+    padding-left:10px;
+    text-align: right;
+    clear: right;
+}
