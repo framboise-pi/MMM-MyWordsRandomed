@@ -8,3 +8,24 @@ It randoms words to make sentence.
 # How ?
 Customize words in the <code>words.json</code> file.
 <p>It will make a random sentence with all of your words in this order : name, verb, adverb and adjectiv.</p>
+
+# Installation
+## I. clone repository
+## II. npm install
+## III. config.js
+<code>
+//////////////////////
+// MY WORDS RANDOMED
+//////////////////////
+		{
+			disabled : false,
+			module: "MMM-MyWordsRandomed",
+			position: "bottom_bar",
+			header: "framboise-pi.fr - My Sense Hat",
+			header: false,
+			config: {
+				display_interval : 5000
+				}
+	    },
+  </code>
+  
