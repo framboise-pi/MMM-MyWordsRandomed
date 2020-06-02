@@ -1,0 +1,26 @@
+{
+  "name": "mmm-mywordsrandomed",
+  "version": "0.0.1",
+  "description": "MagicMirror2 Raspberry sentences built randomly",
+  "main": "MMM-MyWordsRandomed.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framboise-pi/MMM-MyWordsRandomed.git"
+  },
+  "keywords": [
+    "MMM",
+    "MagicMirror",
+    "MagicMirror2",
+    "words",
+    "random"
+  ],
+  "author": "Cedric Camille Lafontaine",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/framboise-pi/MMM-MyWordsRandomed/issues"
+  },
+  "dependencies": {
+    "java-random": "^0.4.0"
+  },
+  "homepage": "https://github.com/framboise-pi/MMM-MyWordsRandomed#readme"
+}
