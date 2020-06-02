@@ -42,6 +42,8 @@ Module.register("MMM-MyWordsRandomed",{
 	getDom: function() {
 		var self = this;
 		var wrapper = document.createElement("div");
+		//compliments look-like
+		wrapper.className = this.config.classes ? this.config.classes : "thin xlarge bright pre-line";
 		ihtml =  "<div class='container'>"
 		ihtml += "<div><p class='bottom'>" + self.sentence + "</p></div>"
 		ihtml += "</div>"
@@ -49,3 +51,5 @@ Module.register("MMM-MyWordsRandomed",{
 		return wrapper
 	},
 });
+
+
