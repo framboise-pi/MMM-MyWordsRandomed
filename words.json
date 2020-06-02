@@ -1,0 +1,28 @@
+{
+	"name" : [
+		"John",
+		"Cindy",
+		"The World",
+		"Our kitty",
+		"Life"
+	],
+	"verb" : [
+		"smells",
+		"eats",
+		"is",
+		"says",
+		"looks"
+	],
+	"adv" : [
+		"incredibly",
+		"exactly",
+		"mysteriously"
+	],
+	"adj" : [
+		"adorable.",
+		"sexy.",
+		"horrible.",
+		"old.",
+		"funny."
+	]
+}
