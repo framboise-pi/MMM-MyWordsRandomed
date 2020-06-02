@@ -29,3 +29,5 @@ Customize words in the <code>words.json</code> file.
 	    },
   </code>
   
+# Screenshot
+<a href="https://ibb.co/yPLqqwY"><img src="https://i.ibb.co/sRLqq06/MMM-My-Words-Randomed-capture.png" alt="MMM-My-Words-Randomed-capture" border="0"></a>
