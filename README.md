@@ -8,6 +8,7 @@ It randoms words to make sentence.
 # How ?
 Customize words in the <code>words.json</code> file.
 <p>It will make a random sentence with all of your words in this order : name, verb, adverb and adjectiv.</p>
+<p>Looks like MagicMirror compliments module; edit .css to make it custom.
 
 # Installation
 ## I. clone repository
@@ -31,3 +32,6 @@ Customize words in the <code>words.json</code> file.
   
 # Screenshot
 <a href="https://ibb.co/yPLqqwY"><img src="https://i.ibb.co/sRLqq06/MMM-My-Words-Randomed-capture.png" alt="MMM-My-Words-Randomed-capture" border="0"></a>
+
+# Thanks
+Michmich and all coders around MagicMirror.
