@@ -10,7 +10,7 @@
 Module.register("MMM-MyWordsRandomed",{
 	// CONFIG
 	defaults: {
-		display_interval: 5000,//ms
+		//display_interval: 5000,//ms
 		fade: 3000,//ms
 	},
 	sentence: "loading...",
